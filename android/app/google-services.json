@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "195257230827",
+    "project_id": "babil-iq",
+    "storage_bucket": "babil-iq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195257230827:android:0a61f59b8ce12d0d7fe5ae",
+        "android_client_info": {
+          "package_name": "com.babil.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGSJVTWToC6bF5gZYHbZnmr5mbFbWkkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195257230827:android:be106c657ecfe8127fe5ae",
+        "android_client_info": {
+          "package_name": "com.babil.app.babil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGSJVTWToC6bF5gZYHbZnmr5mbFbWkkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195257230827:android:b54bd7ce1f7d8d827fe5ae",
+        "android_client_info": {
+          "package_name": "com.babylon.babylon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGSJVTWToC6bF5gZYHbZnmr5mbFbWkkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

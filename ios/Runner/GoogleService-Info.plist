@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>195257230827-j94f404ldon1eqtprhrsp821pin1uun6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.195257230827-j94f404ldon1eqtprhrsp821pin1uun6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>195257230827-unqsck47mo757nh8rltntb1iddaa6phc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6KvZX1-CT_VOYZ-94z3B1O6Ggxu-Y2Rs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>195257230827</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.babil</string>
+	<key>PROJECT_ID</key>
+	<string>babil-iq</string>
+	<key>STORAGE_BUCKET</key>
+	<string>babil-iq.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:195257230827:ios:2050325a9d06ff227fe5ae</string>
+</dict>
+</plist>
